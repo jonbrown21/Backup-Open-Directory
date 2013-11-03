@@ -7,7 +7,9 @@ Open directory on the Mac OSX Server platform is a great directory platform usin
 
 Usage
 =====================
-Follow the detailed instructions on how to execute this script here http://www.jonbrown.org/backing-up-the-od-master/
+Follow the detailed instructions on how to execute this script here 
+
+http://www.jonbrown.org/backing-up-the-od-master/
 
 Reference
 =====================
